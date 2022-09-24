@@ -19,6 +19,7 @@ rel="stylesheet" integrity="sha384-
 EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
 crossorigin="anonymous">
                 <link rel="stylesheet" href="./style.css">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
                 <link rel="preconnect" href="https://fonts.googleapis.com">
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -76,6 +77,12 @@ rel="stylesheet">
                                 <a href="./listMoviesPage.php" style="font-
 weight:600">List Movie</a>
                             </div>
+                            
+                            <div class="content-menu " >
+                                <i class="fa fa-user-circle-o" ></i>
+                                <a href="../page/profilePage.php" style="fontweight:600">&nbspProfile</a>
+                            </div> 
+
                             <div class="content-menu " >
                                 <i class="fa fa-sign-out"></i>
                                 <a href="../process/logoutProcess.php" style="fontweight:600">&nbspLogout</a>
@@ -84,4 +91,5 @@ weight:600">List Movie</a>
                         </div>
                     </div>
 '
+
 ?>
