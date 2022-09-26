@@ -69,13 +69,17 @@ rel="stylesheet">
                         <div class="menu">
                             <div class="content-menu" >
                                 <i class="fa fa-dashboard"></i>
-                                <a href="./dashboardPage.php" style="font-weight:600"
->Dashboard</a>
+                                <a href="./dashboardPage.php" style="font-weight:600">Dashboard</a>
                             </div>
+                            
                             <div class="content-menu " >
                                 <i class="fa fa-film"></i>
-                                <a href="./listMoviesPage.php" style="font-
-weight:600">List Movie</a>
+                                <a href="./listMoviesPage.php" style="font-weight:600">List Movie</a>
+                            </div>
+
+                            <div class="content-menu " >
+                                <i class="fa fa-tv"></i>
+                                <a href="./listSeriesPage.php" style="font-weight:600">List Series</a>
                             </div>
                             
                             <div class="content-menu " >
